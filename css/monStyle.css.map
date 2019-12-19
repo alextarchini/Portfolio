@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,QAAQ;EACJ,KAAK,EAAE,GAAG",
+"sources": ["../scss/monStyle.scss"],
+"names": [],
+"file": "monStyle.css"
+}

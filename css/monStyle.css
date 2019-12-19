@@ -1,0 +1,18 @@
+.imgLogo {
+  width: 50%; }
+
+@media(min-width: 993px){
+    #nom{
+        font-size: 50px
+    }     
+}
+
+
+@media (max-width: 992px){
+    
+    #nom{
+    font-size: 50px
+    }
+    
+}
+/*# sourceMappingURL=monStyle.css.map */
