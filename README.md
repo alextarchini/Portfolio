@@ -7,7 +7,7 @@
 ## 👉Styling:
 Graphic chart:
  - color chart:   #tile-blue #yellow;
- - typography: Sans
+ - typography: Sans;
 
 ## 💻 Techno used
 - **Front only :** HTML, CSS, Javascript, React (Great starter!)
